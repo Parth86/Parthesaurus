@@ -1,0 +1,8 @@
+git clone <url>: clones a git repository from the url to our computer with all files
+git pull: updates all the files to the latest version
+git add <filename>: adds the file to be tracked by git
+git push: pushes the files to the remote server(eg: github)
+git commit: makes a commit 
+git status: see the status of the tracked files(eg: what is changed)
+git log: see all the commits made
+ 
